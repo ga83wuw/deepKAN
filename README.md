@@ -1,0 +1,2 @@
+# deepKAN
+KAN local attempts
